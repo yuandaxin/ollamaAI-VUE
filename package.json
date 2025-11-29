@@ -1,0 +1,27 @@
+{
+  "name": "Happyfe-Seek",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@kousum/semi-ui-vue": "^0.25.0",
+    "axios": "^1.13.2",
+    "element-plus": "^2.9.1",
+    "marked": "^15.0.12",
+    "md-editor-v3": "^5.1.1",
+    "pinia": "^2.2.6",
+    "vue": "^3.5.13",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "sass-embedded": "^1.83.0",
+    "vite": "^6.0.1",
+    "vite-plugin-vue-devtools": "^7.6.5"
+  }
+}
