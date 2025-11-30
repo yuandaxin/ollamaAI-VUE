@@ -8,11 +8,6 @@ const router = createRouter({
       name: 'home',
       component: () => import('../views/Index.vue'),
     },
-    {
-      path: '/seek',
-      name: 'seek',
-      component: () => import('../views/Seek.vue'),
-    },
   ],
 })
 
